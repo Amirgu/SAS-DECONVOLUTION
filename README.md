@@ -18,14 +18,15 @@ Jupyter notebook of recovering calcium image recovery : Deconvolve2D.ipynb
 
 ### Possible Applications :
 
-The microscopic image of high temperature superconductor polycrystalline Deconvoution: 
+-The microscopic image of high temperature superconductor polycrystalline Deconvoution: 
 
 ![Convolution](https://user-images.githubusercontent.com/127419134/235808446-18ec5884-b01d-4ec9-a9b1-95f2660e24ac.PNG)
 
-Natural image deblurring (if using image gradient as they are sparse):
+-Natural image deblurring (if using image gradient as they are sparse):
 
 ![Deblurring](https://user-images.githubusercontent.com/127419134/235808883-d282685b-27f9-4eb9-b5af-14b8d8474e2f.PNG)
 
+-Convolutional Dictionary learning 
 ### References : 
 
 (https://deconvlab.github.io/)
